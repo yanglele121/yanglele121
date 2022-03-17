@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @yanglele121 from Jiangnan University.
 - 👀 I’m interested in C/C++/Python
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 yanglele121/yanglele121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
