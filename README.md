@@ -1,5 +1,5 @@
 <html>
-    <table style="margin-left: auto; margin-right: auto;">
+    <table>
         <tr>
             <td>
                  - 👋 Hi, I’m @yanglele121 from Jiangnan University.
