@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying in the **Jiangnan University**
 - 🌱 I’m currently learning **Java**
 - 🚀 I'll study for a master's degree at HIT
-- 💌 How to reach me: `yanglele121@163.com`
+- 💌 How to contact me: `yanglele121@163.com`
 
 
 <!---
