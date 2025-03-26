@@ -1,7 +1,7 @@
 <img  align="right" src="https://github-readme-stats.vercel.app/api?username=yanglele121&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
 
 ### Nice to meet you 👋
-- 🔭 I’m currently studying in the **Jiangnan University**
+- 🔭 I’m currently studying in the **Harbin Institute of Technology**
 - 🌱 I’m currently learning **Java**
 - 🚀 I'll study for a master's degree at HIT
 - 💌 How to contact me: `yanglele121@163.com`
